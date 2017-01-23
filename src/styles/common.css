@@ -1,0 +1,10 @@
+@import 'reset.css';
+.contentContaier{
+	margin-top:71px;
+}
+.selfTable{
+	margin-top:15px;
+}
+.selfTable thead tr{
+	// background:#ccc;
+}
